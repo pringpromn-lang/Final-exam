@@ -7,7 +7,7 @@ This project is about delivery management program that can store customer name, 
     -driver can update the deliver status
 
 ## How to run
-1.Download "main.py" to your local computer
+1.Download "main.py" to your local computer\n
 2.Open "main.py"
 3.Run "main.py"
 4.Get result
